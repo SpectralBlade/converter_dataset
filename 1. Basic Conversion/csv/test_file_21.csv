@@ -1,0 +1,151 @@
+university_name,major,student_id,enrollment_date,graduation_date,gpa,housing_status,scholarship_amount,student_email,student_phone
+"Centro Universitário Plinio Leite",Psychology,1,1/13/2019,2/14/2025,3.5,Commuting,41861.62,cdoerr0@xing.com,458-471-7048
+"Sree Chitra Tirunal Institute for Medical Sciences and Technology","Computer Science",2,9/14/2021,4/5/2023,0.5,Off-campus,48277.53,nclarke1@51.la,224-370-0192
+"Lamphun College of Agriculture and Technology",Psychology,3,10/27/2016,11/10/2025,2.13,On-campus,21733.71,akingsly2@google.cn,929-493-2227
+"Universidad Yacambu","Computer Science",4,11/6/2015,7/28/2024,3.92,On-campus,35704.02,cshoutt3@wikispaces.com,338-677-0989
+"University of Dallas",Psychology,5,8/8/2015,2/10/2015,0.88,On-campus,35723.97,dcamis4@so-net.ne.jp,756-926-0509
+"Chalmers University of Technology","Computer Science",6,8/13/2020,1/2/2015,3.77,On-campus,5478.79,pcastanho5@bing.com,924-886-0588
+"Petrozavodsk State University",Psychology,7,7/4/2012,1/20/2022,1.04,Commuting,30066.89,zlineker6@usatoday.com,712-123-9870
+"New England School of Art and Design",Psychology,8,4/21/2016,6/29/2016,1.98,On-campus,20217.59,"layers7@cocolog-nifty.com",518-439-2849
+"Technical University of Gabrovo",Psychology,9,3/27/2018,3/11/2026,1.89,Off-campus,23067.35,raynsley8@tinypic.com,865-414-1137
+"Universitas Sriwijaya",Psychology,10,4/4/2016,12/8/2023,2.56,Commuting,34809.14,bbessom9@trellian.com,486-109-7090
+"Michigan School of Professional Psychology","Business Administration",11,8/25/2016,11/27/2024,3.74,On-campus,14504.89,ariepa@shop-pro.jp,905-704-3102
+"Rezekne Higher School","Computer Science",12,6/9/2013,3/11/2024,3.11,Commuting,18845.46,gcaleyb@bizjournals.com,505-295-7492
+"Universidad Mayor de San Simón","Computer Science",13,8/31/2010,11/2/2019,3.27,Off-campus,45785.91,owinningc@wp.com,717-688-8900
+"London School of Business & Finance",Psychology,14,2/25/2015,2/22/2017,0.16,Off-campus,41182.8,bpinfoldd@dyndns.org,381-170-8482
+"Mahatma Gandhi University, Kerala","Business Administration",15,10/2/2010,5/28/2014,1.72,On-campus,36166.99,tcobellie@blogspot.com,508-176-4767
+"University of Economics Varna","Business Administration",16,9/7/2013,4/19/2019,1.26,Off-campus,21164.24,skollachf@wisc.edu,188-559-9531
+"Centenary College of Louisiana","Business Administration",17,9/7/2022,3/20/2026,0.57,Commuting,12046.67,moutlawg@cnet.com,267-682-2059
+"Montserrat College of Art",Psychology,18,8/2/2013,4/25/2020,3.15,On-campus,44787.92,jbritnellh@desdev.cn,561-288-9795
+"Iwaki Meisei University","Business Administration",19,7/6/2015,3/25/2016,0.75,On-campus,9531.19,fdobereri@51.la,111-130-6988
+"Dalian Polytechnic University",Psychology,20,8/25/2022,10/4/2023,0.38,Commuting,5180.5,"lwarrickerj@bigcartel.com",817-736-7419
+"Oral Roberts University","Business Administration",21,11/12/2013,10/7/2016,1.6,On-campus,15067.93,ehannank@sakura.ne.jp,872-276-9608
+"University of Toronto, Scarborough",Psychology,22,4/17/2021,11/6/2020,2.1,Off-campus,16906.07,knorvelll@nytimes.com,735-931-1588
+"Kyrgyz National University","Business Administration",23,8/23/2020,3/2/2025,3.82,Off-campus,32714.36,ffriesem@bluehost.com,650-383-2709
+"Hemchandracharay North Gujarat University","Computer Science",24,4/17/2014,4/10/2023,3.73,Commuting,9073.59,wtytcombn@youtube.com,485-554-4597
+"Instituto Superior de Informática e Gestão","Computer Science",25,12/22/2014,9/16/2017,1.05,Commuting,164.16,drolyo@seesaa.net,791-845-9434
+"Glasgow Caledonian University","Business Administration",26,10/30/2019,2/21/2025,3.48,Commuting,49403.65,thollebonp@usa.gov,958-863-2677
+"New Mexico State University","Business Administration",27,4/5/2016,3/16/2023,2.08,On-campus,29195.37,nberrieq@tumblr.com,859-421-6628
+"Purdue University Calumet",Psychology,28,10/6/2020,1/27/2023,1.45,Off-campus,25831.53,bharnettyr@plala.or.jp,429-665-5938
+"Kansai University",Psychology,29,2/1/2011,9/18/2022,3.48,On-campus,31124.68,ctinstons@feedburner.com,145-987-7885
+"York University","Computer Science",30,7/31/2022,6/24/2024,2.07,Off-campus,16573.0,obreedt@un.org,777-564-6776
+"North Carolina Agricultural and Technical State University","Computer Science",31,5/14/2013,9/23/2018,1.18,Commuting,15455.1,yackermannu@state.gov,415-703-3357
+"Virginia Wesleyan College",Psychology,32,1/9/2022,2/27/2022,1.78,Off-campus,15072.37,csandonv@purevolume.com,154-431-7879
+"Instituto de Estudios Superiores de la Sierra","Business Administration",33,6/17/2016,8/9/2020,3.36,Commuting,35501.85,"ofieldersw@yellowbook.com",983-394-1762
+"Universitas Sam Ratulangi","Business Administration",34,11/1/2017,4/25/2017,2.77,Commuting,1906.95,btrevithickx@bing.com,875-304-8818
+"Alderson Broaddus College",Psychology,35,10/16/2021,6/25/2019,1.54,On-campus,8603.95,jjozsay@ning.com,227-519-1203
+"Ithaca College","Business Administration",36,11/6/2017,9/22/2023,1.89,On-campus,44818.24,shackingez@myspace.com,430-346-8900
+"Université des Sciences Sociales (Toulouse I)",Psychology,37,4/22/2020,10/8/2018,2.11,Off-campus,15109.38,gdyball10@cbsnews.com,654-342-4801
+"Women's University in Africa","Business Administration",38,5/28/2015,7/4/2025,0.2,Off-campus,25573.42,lprestige11@engadget.com,428-596-3818
+"Kent State University - East Liverpool","Computer Science",39,6/17/2015,8/1/2020,3.44,Off-campus,18772.4,jbru12@topsy.com,564-367-4467
+"Niigata College of Pharmacy","Computer Science",40,8/22/2011,8/20/2018,0.69,On-campus,27767.08,"ohazlegrove13@seattletimes.com",975-663-0466
+"Aarhus School of Architecture","Business Administration",41,2/8/2012,3/26/2023,3.81,Off-campus,46935.85,snolin14@jiathis.com,571-620-9672
+"Coe College","Computer Science",42,11/2/2010,7/15/2019,0.63,On-campus,37789.36,"dmccrillis15@webeden.co.uk",965-512-2237
+"University of Abertay Dundee","Computer Science",43,2/23/2020,2/27/2015,3.72,Off-campus,34524.52,aseal16@ox.ac.uk,660-482-2947
+"Tsuda College",Psychology,44,9/30/2015,6/1/2020,0.86,On-campus,42626.03,spenhall17@about.me,407-575-9746
+"Universidade Católica de Moçambique","Computer Science",45,5/23/2021,8/18/2023,0.8,On-campus,22595.43,rtroctor18@alexa.com,104-458-8697
+"Fachhochschule des Mittelstandes (FHM)","Computer Science",46,9/30/2022,5/4/2016,0.41,Off-campus,13234.28,"jsaunderson19@123-reg.co.uk",566-945-0137
+"Université de Pau et des Pays de l'Adour","Business Administration",47,3/6/2013,9/7/2023,2.34,Commuting,8324.11,iapperley1a@abc.net.au,299-283-4958
+"Yarmouk University",Psychology,48,8/12/2010,5/22/2022,3.86,Commuting,33843.57,zancell1b@epa.gov,689-619-8218
+"Samara State Medical University",Psychology,49,8/10/2022,6/14/2022,2.88,Commuting,42943.11,hginn1c@digg.com,725-708-1641
+"Guangzhou Academy of Fine Art","Business Administration",50,12/11/2018,12/26/2017,1.71,On-campus,707.87,"cclemett1d@cocolog-nifty.com",174-596-3881
+"Hiroshima Institute of Technology","Computer Science",51,12/3/2011,10/2/2015,2.51,Commuting,37165.27,ijahncke1e@nature.com,369-882-9508
+"Université de Versailles Saint-Quentin-en-Yvelines",Psychology,52,6/16/2021,3/19/2017,2.18,Off-campus,24567.16,cslemming1f@wsj.com,226-801-4198
+"University of Winnipeg","Computer Science",53,11/2/2014,3/2/2022,2.82,Off-campus,25427.74,mthickins1g@home.pl,223-224-2394
+"National Taiwan University of Science and Technology",Psychology,54,7/21/2013,1/6/2022,2.57,Commuting,18225.07,dleetham1h@gov.uk,971-645-8657
+"Mesa State College",Psychology,55,9/20/2017,2/24/2024,2.38,Commuting,32585.82,rseeler1i@aol.com,424-990-0874
+"Universidad Galileo",Psychology,56,10/15/2022,5/21/2018,2.77,Off-campus,48890.2,jmitro1j@51.la,336-519-5034
+"University of Massachusetts (System)",Psychology,57,8/2/2011,10/26/2015,3.47,Off-campus,5117.2,mmomery1k@mozilla.com,884-971-9704
+"Palawan State University",Psychology,58,11/24/2022,12/1/2017,0.98,Commuting,27375.35,fhysom1l@tinyurl.com,677-599-7618
+"Universitas Islam Indonesia","Business Administration",59,11/22/2012,7/20/2017,2.64,Commuting,39023.46,lteece1m@usatoday.com,754-177-2179
+"Universidad de Burgos","Business Administration",60,4/27/2018,11/23/2018,1.6,Commuting,19726.78,mgelsthorpe1n@apple.com,294-889-1307
+"Notre Dame College","Business Administration",61,1/6/2019,10/18/2014,2.56,On-campus,19159.57,gfronczak1o@gov.uk,937-891-0305
+"Escola Superior de Hotelaria e Turismo do Estoril",Psychology,62,9/17/2017,2/1/2023,3.33,On-campus,35933.81,"cnurcombe1p@imageshack.us",356-230-4096
+"Aquinas College","Computer Science",63,7/14/2014,1/26/2023,0.91,Commuting,28995.07,"rdanielczyk1q@seattletimes.com",847-606-7162
+"Pädagogische Hochschule Karlsruhe",Psychology,64,6/7/2011,7/17/2016,1.24,Off-campus,31333.59,mmurley1r@marriott.com,365-689-2800
+"Clemson University","Computer Science",65,8/5/2022,9/23/2016,0.43,Commuting,41990.09,qmagnar1s@prweb.com,504-117-3527
+"University of Athens","Computer Science",66,4/1/2016,1/6/2014,3.85,Commuting,5744.16,sswatland1t@phpbb.com,252-590-3037
+"Ahi Evran University","Business Administration",67,1/17/2012,3/10/2026,3.84,Commuting,7691.45,kpeschmann1u@nyu.edu,536-197-0751
+"Ryerson Polytechnic University","Business Administration",68,4/14/2011,9/26/2017,0.51,Off-campus,44924.26,awing1v@oaic.gov.au,494-455-1855
+"Merlimau Polytechnic",Psychology,69,12/28/2013,6/21/2020,3.72,On-campus,42951.09,"fhockell1w@technorati.com",174-330-0072
+"Pontificia Universidad Católica Madre y Maestra (PUCMM)","Business Administration",70,2/17/2018,9/19/2025,1.14,Commuting,35398.69,"bfrickey1x@studiopress.com",158-439-1815
+"Binus University","Business Administration",71,8/28/2020,8/19/2014,1.22,Commuting,6694.12,"kmurley1y@liveinternet.ru",678-479-4528
+"Changsha Railway University","Computer Science",72,7/20/2010,6/3/2019,0.54,Off-campus,46143.27,fprosch1z@ibm.com,304-341-3140
+"Agricultural University of Lublin",Psychology,73,5/27/2013,3/1/2025,0.17,Off-campus,33445.43,ahandrek20@house.gov,457-698-5561
+"Scandinavian Art and Business Institute","Business Administration",74,11/16/2020,11/24/2021,2.02,Off-campus,25455.85,ehusselbee21@mit.edu,875-761-5049
+"Universidad Metropolitana","Computer Science",75,10/12/2017,2/5/2018,1.66,Off-campus,2348.93,gpemble22@apache.org,385-188-3796
+"Purdue University",Psychology,76,5/29/2018,7/8/2025,3.65,Commuting,7195.1,nfotherby23@auda.org.au,487-187-8457
+"Korea National University of Arts","Computer Science",77,3/2/2010,2/19/2022,1.18,Commuting,36585.92,mhallifax24@dion.ne.jp,967-270-6695
+"Juniata College",Psychology,78,3/17/2018,5/6/2015,1.28,Off-campus,7087.85,rworland25@examiner.com,773-264-6564
+"Kyrgyz National Agrarian University","Computer Science",79,9/8/2015,10/31/2025,2.01,Commuting,16309.6,dfaint26@themeforest.net,579-206-3951
+"Open University of the Netherlands","Computer Science",80,9/13/2013,3/25/2025,3.31,Commuting,37231.56,tdillway27@bloglines.com,209-946-6173
+"Pädagogische Hochschule Schwäbisch Gmünd","Computer Science",81,1/22/2011,9/9/2017,0.64,Commuting,3832.96,bhildred28@cbslocal.com,599-436-0816
+"South Eastern University of Sri Lanka",Psychology,82,2/4/2012,10/19/2022,0.39,Off-campus,28325.5,"rjendrassik29@microsoft.com",502-477-8489
+"University of Applied Sciences Aargau","Business Administration",83,12/3/2018,9/22/2021,1.82,Off-campus,23317.13,mthomson2a@clickbank.net,677-828-6909
+"Universidad Popular de Nicaragua (UPONIC)","Business Administration",84,1/31/2022,11/4/2018,0.62,On-campus,46114.65,palker2b@wordpress.org,400-518-9046
+"Red Sea University",Psychology,85,8/29/2010,8/25/2025,0.75,Off-campus,6922.04,pkhadir2c@technorati.com,221-934-8968
+"Voronezh State Technical University",Psychology,86,9/4/2019,2/22/2017,0.47,Off-campus,38693.39,ssongist2d@bbc.co.uk,686-739-5808
+"Nazareth College","Business Administration",87,11/25/2021,12/24/2019,2.08,Off-campus,40795.16,"zmuncer2e@tripadvisor.com",446-507-6100
+"College of DuPage","Business Administration",88,1/11/2014,4/28/2025,2.58,Commuting,48467.74,stowne2f@wikia.com,589-213-1097
+"Universitas Muria Kudus","Business Administration",89,7/28/2011,9/25/2025,0.06,Commuting,35845.64,rlomasney2g@google.nl,735-729-5892
+"Dicle (Tirgris) University",Psychology,90,8/7/2010,7/17/2026,1.01,Commuting,3115.21,"jenders2h@timesonline.co.uk",740-780-7449
+"University of Miami",Psychology,91,3/2/2022,5/1/2022,1.34,On-campus,19235.22,"pmcgeagh2i@networkadvertising.org",720-928-0457
+"Southwest University of Political Science and Law","Business Administration",92,7/2/2021,11/19/2018,0.87,Off-campus,4213.47,scrank2j@ameblo.jp,408-185-7149
+"Universitas Brawijaya","Business Administration",93,8/17/2016,12/14/2021,2.07,Commuting,21134.5,johartnett2k@cdbaby.com,809-283-7809
+"Thammasat University","Computer Science",94,12/18/2019,12/16/2019,3.88,On-campus,35084.88,fcamidge2l@boston.com,438-580-5324
+"Shaheed Benazir Bhutto Women University ",Psychology,95,4/12/2018,12/29/2021,2.68,Off-campus,40748.0,mdeuss2m@arizona.edu,933-878-7281
+"Shaheed Rajaei Teacher Training University","Computer Science",96,12/27/2021,4/13/2026,0.04,Commuting,6023.19,ksoppeth2n@123-reg.co.uk,935-493-6369
+"Universitas Indonesia","Computer Science",97,11/6/2015,1/31/2020,1.85,Commuting,48820.14,emuslim2o@ovh.net,864-307-2697
+"Boston College",Psychology,98,7/29/2019,6/29/2023,1.57,On-campus,16072.97,tvogeller2p@cpanel.net,774-295-4845
+"Xi'an Academy of Fine Art","Business Administration",99,2/27/2019,12/22/2015,1.92,Commuting,3841.17,cbenns2q@t-online.de,959-853-5649
+"University of Lodz",Psychology,100,1/26/2021,7/25/2022,2.79,Off-campus,11186.83,mdominiak2r@si.edu,404-900-8697
+"CETYS Universidad","Business Administration",101,9/22/2013,10/13/2026,2.55,On-campus,17216.79,"msuccamore2s@bloglines.com",355-252-6102
+"School of Education Pisa","Business Administration",102,4/9/2014,5/15/2017,1.06,On-campus,17796.17,vbattson2t@auda.org.au,636-453-8509
+"University of Southern Philippines Foundation","Business Administration",103,3/26/2012,8/26/2017,3.49,Off-campus,24536.5,cbillin2u@google.it,307-563-7038
+"International Banking Institute, St. Petersburg","Business Administration",104,7/3/2021,12/19/2021,0.59,On-campus,40511.54,epaolini2v@i2i.jp,657-693-6403
+"Universidad Católica de Colombia","Computer Science",105,3/4/2019,8/9/2015,0.68,Commuting,31933.28,"sspelsbury2w@redcross.org",687-702-2632
+"Chongqing University of Science and Technology ","Business Administration",106,4/22/2011,10/2/2017,0.14,On-campus,16696.11,eboon2x@prlog.org,482-746-8266
+"Mazandaran University of Iran","Computer Science",107,2/28/2015,4/1/2023,0.92,Commuting,34087.78,jdowden2y@pcworld.com,448-627-0278
+"St. Luke' s College of Nursing","Computer Science",108,11/11/2012,3/19/2017,0.63,Off-campus,39335.26,mmcgovern2z@cbslocal.com,470-563-2509
+"Hebrew University of Jerusalem","Computer Science",109,1/24/2017,3/1/2023,2.11,On-campus,18061.08,"mbiskup30@marketwatch.com",998-497-7471
+"Institut Prima Bestari - Pine Academy ","Business Administration",110,8/16/2022,6/14/2018,2.01,Off-campus,39201.17,hscase31@senate.gov,610-731-7275
+"South Dakota State University",Psychology,111,6/25/2012,1/3/2016,3.96,Commuting,49737.02,nmccoy32@alibaba.com,218-873-4486
+"Southern Wesleyan University",Psychology,112,4/20/2017,7/22/2016,2.03,Off-campus,16040.99,hrostron33@adobe.com,861-228-2095
+"Ibrahim Babangida University","Business Administration",113,11/17/2022,1/10/2016,2.77,Commuting,11666.25,pharriott34@amazon.com,637-432-5640
+"Technikum Wien","Business Administration",114,5/17/2017,9/10/2015,1.05,On-campus,49963.48,"ebilborough35@gizmodo.com",207-921-7104
+"University of the Philippines Diliman","Computer Science",115,3/14/2018,7/22/2025,1.75,Commuting,37023.05,wcowpe36@gov.uk,597-195-9192
+"Awadhesh Pratap Singh University","Computer Science",116,9/7/2020,4/24/2016,0.61,Commuting,19468.96,rpinkerton37@discuz.net,874-310-6789
+"Université d'Alger","Computer Science",117,3/13/2015,8/16/2014,0.44,On-campus,23879.23,"vsommerling38@homestead.com",109-269-5106
+"Koyasan University",Psychology,118,5/25/2013,10/9/2025,0.53,Off-campus,23797.47,borts39@smugmug.com,485-602-4525
+"Haigazian University",Psychology,119,6/12/2020,1/14/2023,0.93,Commuting,30850.37,psarll3a@wp.com,106-415-5718
+"Katholische Universität Eichstätt","Computer Science",120,10/25/2016,8/25/2019,0.72,Commuting,33736.08,elewinton3b@ebay.co.uk,723-171-3296
+"Universidad de San José","Business Administration",121,10/20/2016,5/6/2015,2.41,Off-campus,15069.8,"sdecristoforo3c@salon.com",461-791-4596
+"University of Alabama - Birmingham",Psychology,122,6/1/2022,6/29/2026,2.06,Commuting,26388.88,bgorse3d@youtu.be,456-220-8552
+"Hesser College","Computer Science",123,9/28/2016,3/9/2023,0.37,Commuting,47291.29,"fmaudson3e@businessinsider.com",673-662-5706
+"Fachhochschule Deggendorf","Business Administration",124,10/20/2021,10/16/2019,0.32,Commuting,28642.1,lpogue3f@mapquest.com,868-865-3318
+"Jordan Academy of Music / Higher Institute of Music","Computer Science",125,2/24/2021,7/20/2023,3.32,Commuting,32461.24,espreckley3g@go.com,702-911-0424
+"Aston University","Computer Science",126,10/24/2022,8/6/2025,1.82,Off-campus,37687.96,qredolfi3h@disqus.com,378-212-4386
+"University of Faisalabad","Business Administration",127,10/26/2022,7/28/2019,0.61,Commuting,4143.4,mkarpets3i@ihg.com,616-377-1733
+"Universidad del Turismo","Business Administration",128,8/23/2022,6/15/2015,3.35,On-campus,30329.21,nsimnor3j@amazon.co.uk,515-969-8118
+"Universidad Francisco Marroquín","Computer Science",129,8/3/2015,5/19/2018,3.89,Off-campus,11782.05,"wportsmouth3k@xinhuanet.com",739-739-9753
+"Hartwick College","Business Administration",130,10/2/2019,1/2/2026,3.64,On-campus,40802.29,jbewley3l@google.co.uk,982-807-6094
+"Kansas State University","Business Administration",131,2/8/2015,6/5/2016,0.14,Off-campus,19842.79,cburdikin3m@smh.com.au,408-872-3060
+"Université de Gabès","Business Administration",132,8/26/2011,12/17/2021,2.54,Off-campus,14654.06,pcastella3n@netscape.com,198-934-2227
+"University of Dhaka",Psychology,133,4/17/2016,10/13/2021,0.85,Commuting,35345.1,abarbie3o@arizona.edu,561-522-9492
+"University of the Punjab",Psychology,134,9/16/2016,7/30/2026,2.95,On-campus,8932.24,"kkornilov3p@pinterest.com",969-897-6754
+"University of Prince Edward Island","Business Administration",135,8/2/2014,1/27/2017,0.78,On-campus,42548.04,jshewry3q@un.org,824-746-6886
+"University of Karachi","Computer Science",136,7/17/2017,9/6/2024,2.22,Commuting,19894.75,"driddeough3r@timesonline.co.uk",352-318-1075
+"Technological Education Institute of Heraklion","Business Administration",137,12/7/2019,3/30/2016,3.54,Off-campus,449.36,jorlton3s@ebay.co.uk,676-340-3043
+"Freed-Hardeman University","Computer Science",138,6/21/2015,8/21/2021,3.25,Off-campus,45704.26,omansuer3t@google.pl,741-250-7806
+"Dongduk Women's University",Psychology,139,8/18/2012,12/27/2022,3.87,On-campus,7154.7,dbesnard3u@europa.eu,976-341-5198
+"Fountain University",Psychology,140,3/29/2016,7/21/2017,1.49,On-campus,19179.53,"lmaulin3v@yellowpages.com",455-410-6812
+"Northwood University","Computer Science",141,10/10/2021,11/20/2016,3.16,On-campus,45177.82,rolagene3w@illinois.edu,814-121-9567
+"Université Bordeaux I","Business Administration",142,8/13/2010,7/5/2019,3.24,On-campus,4255.46,odoone3x@boston.com,577-398-6830
+"Aljouf University",Psychology,143,5/23/2016,6/9/2015,3.32,Commuting,32371.69,fflement3y@hhs.gov,878-660-4671
+"Pennsylvania Academy of the Fine Arts","Computer Science",144,11/29/2013,11/3/2015,1.39,On-campus,15387.59,cchesshyre3z@wp.com,534-529-9231
+"Missouri Southern State College",Psychology,145,10/6/2017,9/9/2016,2.36,On-campus,801.51,hcorteney40@ucsd.edu,634-214-9817
+"Mälardalen University","Business Administration",146,9/19/2019,4/4/2019,2.01,Off-campus,21465.58,"aholwell41@seattletimes.com",574-427-0507
+"John Marshall Law School","Computer Science",147,8/11/2010,3/4/2015,3.27,Commuting,25899.11,hkoppens42@sfgate.com,777-980-7187
+"Sevastopol National Technical University","Business Administration",148,2/26/2016,3/8/2016,0.99,Commuting,23476.45,dlydall43@shutterfly.com,284-218-9937
+"Northeast Forest University",Psychology,149,2/25/2011,3/28/2014,1.52,Off-campus,33995.18,"fquerree44@domainmarket.com",587-673-5380
+"University of Cagliari","Business Administration",150,5/22/2019,8/14/2025,3.27,Off-campus,15231.58,gcarlet45@youtu.be,104-338-8754
